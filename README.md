@@ -1,1 +1,1 @@
-#https://temidayo24.github.io/image_carousel_zuri/
+https://temidayo24.github.io/image_carousel_zuri/
