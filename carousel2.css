@@ -40,7 +40,7 @@ body {
 
 .carousel_actions button{
     font-size: 36px;
-    /* background: transparent; */
+    background: transparent;
     border: 0;
     opacity: 0;
 }
